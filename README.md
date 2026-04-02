@@ -1,0 +1,2 @@
+# Gestionale-MilleEdicola
+Gestionale MilleEdicola
